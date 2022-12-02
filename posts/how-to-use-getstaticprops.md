@@ -1,6 +1,6 @@
 ---
-title: How to Use useEffect Hook
-slug: how-to-use-useEffect-hook
+title: How to Use getStatic Props
+slug: how-to-use-getstaticprops
 meta: If you stay up to date with niche software news, your ears may recently have twitched at the release of a new programming language.
 ---
 

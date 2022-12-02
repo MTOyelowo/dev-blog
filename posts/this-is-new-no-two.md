@@ -1,6 +1,6 @@
 ---
-title: Clever Lazy Loading for Javascript
-slug: clever-lazy-loading-for-javascript
+title: This is New No Two
+slug: this-is-new-no-two
 meta: Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming language that seems to be growing in popularity.
 ---
 
@@ -8,7 +8,7 @@ Maybe you’ve heard of it, maybe you haven’t. Zig is a new programming langua
 
 ## What Is It?
 
-You’ve [likely](https://google.com) heard of Rust as it has made significant inroads in critical low-level infrastructures such as operating systems and embedded microcontrollers. As a `gross` oversimplification, it offers memory safety and many traditional runtime checks pushed to compile time.
+You’ve likely heard of Rust as it has made significant inroads in critical low-level infrastructures such as operating systems and embedded microcontrollers. As a `gross` oversimplification, it offers memory safety and many traditional runtime checks pushed to compile time.
 
 It has been the darling of many posts here at Hackaday as it offers some unique advantages. With Rust on the rise, it makes sense that there might be some space for some new players. Languages like Julia, Go, Swift, and even Racket are all relative newcomers vying for the highly coveted mindshare of software engineers everywhere.
 
